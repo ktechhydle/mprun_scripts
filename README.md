@@ -1,2 +1,4 @@
-# mprun_scripts
-A collection of useful Python scripts that can be used in MPRUN's Python Scripting Interface
+# MPRUN Scripts
+_A collection of useful Python scripts that can be used in MPRUN's Python Scripting Interface_
+
+To run one of these scripts, copy and paste it into MPRUN's Python Scripting Interface (_Help > Python Scripting_)
