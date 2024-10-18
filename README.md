@@ -11,4 +11,7 @@ To run one of these scripts:
 
 ![Screenshot 2024-10-17 113338](https://github.com/user-attachments/assets/c318c153-e73c-4df5-8aaa-d43232f19ad4)
 
-If you want to add your own script to this repository, fork it and create a pull request.
+- If you want the script to run every time you launch MPRUN, check "Run script on startup". This will take what ever code is inside the editor and store it inside a file.
+
+# Contributing
+Are you wanting to add your own script to this repository? Simply fork it and create a pull request.
